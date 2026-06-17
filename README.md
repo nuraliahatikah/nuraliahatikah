@@ -14,14 +14,6 @@ I am a final-year Computer Science student at Universiti Teknologi MARA (UiTM) s
 
 ---
 
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuraliahatikah&show_icons=true&theme=tokyonight" alt="Alia's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraliahatikah&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
 ---
 
 ## 📬 Let's Connect!
