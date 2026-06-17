@@ -22,4 +22,4 @@ I am a final-year Computer Science student at Universiti Teknologi MARA (UiTM) s
 * **LinkedIn:** [linkedin.com/in/nuraliah-atikah-016b202bb](https://www.linkedin.com/in/nuraliah-atikah-016b202bb)
 
 ---
-*“Simplicity is the soul of efficiency.” — Austin Freeman*
+
