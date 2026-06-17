@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'am Aliah 
+# 👩‍💻 Hi, I'm Aliah 
 
 **Computer Science Student**  
 *Passionate about transforming complex data problems into seamless, human-centric software solutions.*
