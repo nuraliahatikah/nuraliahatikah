@@ -7,12 +7,13 @@
 
 ## 🚀 About Me
 
-I am a final-year Computer Science student at Universiti Teknologi MARA (UiTM) specializing in building robust, data-driven applications. My academic and personal projects bridge the gap between reliable full-stack architecture and innovative automation. Whether it's optimizing backend workflows or experimenting with artificial intelligence, I thrive on engineering clean, scalable code.
+I am a final-year Computer Science student at Universiti Teknologi MARA (UiTM) specializing in building robust, data-driven applications. My academic and personal projects bridge the gap between reliable full-stack architecture and innovative automation. Whether it's optimizing backend workflows or experimenting with artificial intelligence, I thrive on engineering clean, scalable code. I enjoy learning new tools, improving my coding skills, and exploring different areas of software development.
 
-* 🔭 **Current Focus:** Developing a centralized tracking portal and crisis management system for my Final Year Project.
-* 🤖 **Research Interests:** Domain-specific chatbot engineering and automated security intelligence.
-
----
+🌱 Currently improving my programming and development skills
+💡 Interested in software development and technology
+🔍 Enjoy solving problems through creative solutions
+📚 Always learning and experimenting with new ideas
+🚀 Building projects to improve my experience
 
 ---
 
