@@ -80,7 +80,7 @@ Throughout my academic journey, internship, and personal learning, I have worked
 
 ### 🎓 Academic & Final Year Projects
 
-**1. ResQ – Disaster Humanitarian Aid Coordination System**
+**1. ResQ – Disaster Humanitarian Aid Coordination System (currently woking for final year project)**
 - Developed a web-based disaster management platform designed to support NGOs and the public in coordinating humanitarian aid.
 - Integrated a Random Forest machine learning model for disaster-related prediction and decision support.
 - Focused on improving disaster information management and resource coordination.
