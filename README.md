@@ -78,12 +78,61 @@ I look forward to learning from experienced professionals, collaborating with de
 
 Some of the projects I have explored and developed:
 
-- **ResQ – Disaster Humanitarian Aid Coordination System:** A web-based disaster management platform designed to support NGOs and public users, incorporating Random Forest machine learning.
-- **FitBuddy AI – AI Fitness Coach:** An AI-powered fitness chatbot designed to provide interactive fitness guidance and track fitness-related information.
-- **OneTouch – Digital Management System:** A digital platform developed to streamline attendance, leave applications, and task management.
-- **OrderNow – Restaurant Ordering System:** A Java-based restaurant ordering application with customer, staff, and administrator functionalities.
+## 🚀 Projects & Development Experience
 
-Explore my repositories for more projects and development experiments!
+Throughout my academic journey, internship, and personal learning, I have worked on various software development projects involving web applications, database management, artificial intelligence, machine learning, and system development.
+
+### 🎓 Academic & Final Year Projects
+
+**1. ResQ – Disaster Humanitarian Aid Coordination System**
+- Developed a web-based disaster management platform designed to support NGOs and the public in coordinating humanitarian aid.
+- Integrated a Random Forest machine learning model for disaster-related prediction and decision support.
+- Focused on improving disaster information management and resource coordination.
+- Technologies: Python, Machine Learning, Random Forest, Web Development, Database Management.
+
+**2. OrderNow – Restaurant Ordering System**
+- Developed a restaurant ordering system to manage customer orders, staff information, and restaurant operations.
+- Implemented customer and administrator functionalities, order management, receipt generation, and expense tracking.
+- Technologies: Java, JSP, Servlets, MySQL, HTML, CSS.
+
+**3. FitBuddy AI – AI Fitness Coach**
+- Developed an AI-powered fitness chatbot that provides interactive fitness guidance.
+- Integrated AI chatbot functionality, voice input, fitness dashboards, and interactive features.
+- Technologies: Python, Flask, OpenAI API, JavaScript, Chart.js, HTML, CSS.
+
+**4. Cikgu Bot – AI Educational Chatbot**
+- Developed an educational chatbot designed to assist Year 6 students with Science-related learning.
+- Explored AI-powered question answering to provide interactive learning support.
+- Technologies: Python, OpenAI API, Web Development.
+
+### 💻 Internship & Practical Development Projects
+
+**5. My-eGerak – Official Movement Tracking System****
+- Developed a digital management platform to streamline administrative operations within the Learning Sector at Pejabat Pendidikan Daerah Kota Tinggi.
+- Implemented digital attendance, leave applications, task assignments, officer records, and reporting functionalities.
+- Aimed to reduce manual administrative processes and improve workflow efficiency.
+- Technologies: PHP, MySQL, HTML, CSS, JavaScript.
+
+**6. School Book Voucher Management Dashboard**
+- Developed an Excel-based dashboard to manage and monitor RM50 and RM100 school book voucher distributions.
+- Implemented student record searching, data filtering, and dashboard reporting to simplify information management.
+- Technologies: Microsoft Excel.
+
+**7. Google Sites – Officer Information Websites**
+- Created websites using Google Sites to organise and present officer information.
+- Focused on improving information accessibility and centralising relevant resources.
+- Technologies: Google Sites, Google Workspace.
+
+### 🌱 Additional Development & Innovation
+
+**8. CompliancePilot AI**
+- Explored an AI-powered compliance solution designed to support compliance-related workflows and information management.
+- Developed as an innovation project concept for a technology hackathon.
+- Technologies: AI, Web Development.
+
+---
+
+I enjoy taking ideas from planning to implementation, exploring different technologies, and continuously improving my ability to develop practical software solutions.
 
 ---
 
