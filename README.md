@@ -125,15 +125,6 @@ Throughout my academic journey, internship, and personal learning, I have worked
 
 I enjoy taking ideas from planning to implementation, exploring different technologies, and continuously improving my ability to develop practical software solutions.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuraliahatikah&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraliahatikah&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📬 Let's Connect!
 
@@ -144,6 +135,5 @@ I'm always open to connecting with fellow developers, learning from the tech com
 
 ---
 
-⭐ *"Always learning, always building, and always growing."*
+⭐ *"Always learning, always building and always growing."*
 
-Thanks for visiting my profile! 😊
