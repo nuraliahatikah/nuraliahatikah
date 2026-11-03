@@ -96,32 +96,27 @@ Throughout my academic journey, internship, and personal learning, I have worked
 - Integrated AI chatbot functionality, voice input, fitness dashboards, and interactive features.
 - Technologies: Python, Flask, OpenAI API, JavaScript, Chart.js, HTML, CSS.
 
-**4. Cikgu Bot – AI Educational Chatbot**
-- Developed an educational chatbot designed to assist Year 6 students with Science-related learning.
-- Explored AI-powered question answering to provide interactive learning support.
-- Technologies: Python, OpenAI API, Web Development.
-
 ### 💻 Internship & Practical Development Projects
 
-**5. My-eGerak – Official Movement Tracking System****
+**4. My-eGerak – Official Movement Tracking System****
 - Developed a digital management platform to streamline administrative operations within the Learning Sector at Pejabat Pendidikan Daerah Kota Tinggi.
 - Implemented digital attendance, leave applications, task assignments, officer records, and reporting functionalities.
 - Aimed to reduce manual administrative processes and improve workflow efficiency.
 - Technologies: PHP, MySQL, HTML, CSS, JavaScript.
 
-**6. School Book Voucher Management Dashboard**
+**5. School Book Voucher Management Dashboard**
 - Developed an Excel-based dashboard to manage and monitor RM50 and RM100 school book voucher distributions.
 - Implemented student record searching, data filtering, and dashboard reporting to simplify information management.
 - Technologies: Microsoft Excel.
 
-**7. Google Sites – Officer Information Websites**
+**6. Google Sites – Officer Information Websites**
 - Created websites using Google Sites to organise and present officer information.
 - Focused on improving information accessibility and centralising relevant resources.
 - Technologies: Google Sites, Google Workspace.
 
 ### 🌱 Additional Development & Innovation
 
-**8. CompliancePilot AI**
+**7. CompliancePilot AI**
 - Explored an AI-powered compliance solution designed to support compliance-related workflows and information management.
 - Developed as an innovation project concept for a technology hackathon.
 - Technologies: AI, Web Development.
