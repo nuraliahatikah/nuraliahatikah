@@ -74,10 +74,6 @@ I look forward to learning from experienced professionals, collaborating with de
 
 ---
 
-## 📌 Featured Projects
-
-Some of the projects I have explored and developed:
-
 ## 🚀 Projects & Development Experience
 
 Throughout my academic journey, internship, and personal learning, I have worked on various software development projects involving web applications, database management, artificial intelligence, machine learning, and system development.
