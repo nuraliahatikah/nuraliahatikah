@@ -32,7 +32,7 @@ I am actively looking for an internship placement to gain professional experienc
 | Position | Internship / Industrial Training |
 | Availability | 15 March 2027 – 18 June 2027 |
 | Field of Interest | Software Development, IT, AI & Technology |
-| Location | Open to suitable opportunities |
+| Location | Johor Bahru |
 
 I look forward to learning from experienced professionals, collaborating with development teams, and contributing to meaningful projects.
 
