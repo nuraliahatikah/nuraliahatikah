@@ -92,18 +92,18 @@ Throughout my academic journey, internship, and personal learning, I have worked
 
 ### 💻 Internship & Practical Development Projects
 
-**4. My-eGerak – Official Movement Tracking System****
+**1. My-eGerak – Official Movement Tracking System****
 - Developed a digital management platform to streamline administrative operations within the Learning Sector at Pejabat Pendidikan Daerah Kota Tinggi.
 - Implemented digital attendance, leave applications, task assignments, officer records, and reporting functionalities.
 - Aimed to reduce manual administrative processes and improve workflow efficiency.
 - Technologies: PHP, MySQL, HTML, CSS, JavaScript.
 
-**5. School Book Voucher Management Dashboard**
+**2. School Book Voucher Management Dashboard**
 - Developed an Excel-based dashboard to manage and monitor RM50 and RM100 school book voucher distributions.
 - Implemented student record searching, data filtering, and dashboard reporting to simplify information management.
 - Technologies: Microsoft Excel.
 
-**6. Google Sites – Officer Information Websites**
+**3. Google Sites – Officer Information Websites**
 - Created websites using Google Sites to organise and present officer information.
 - Focused on improving information accessibility and centralising relevant resources.
 - Technologies: Google Sites, Google Workspace.
