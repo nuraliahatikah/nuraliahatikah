@@ -47,32 +47,6 @@ I look forward to learning from experienced professionals, collaborating with de
 - **Database Management:** Designing and managing structured databases.
 - **Problem Solving:** Applying programming and analytical thinking to solve real-world challenges.
 
----
-
-## 💻 Technologies & Tools
-
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Database & Development Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 ## 🚀 Projects & Development Experience
 
@@ -84,7 +58,7 @@ Throughout my academic journey, internship, and personal learning, I have worked
 - Developed a web-based disaster management platform designed to support NGOs and the public in coordinating humanitarian aid.
 - Integrated a Random Forest machine learning model for disaster-related prediction and decision support.
 - Focused on improving disaster information management and resource coordination.
-- Technologies: Python, Machine Learning, Random Forest, Web Development, Database Management.
+- Technologies: Python, Flask, PostgreSQL, Random Forest, Machine Learning, Random Forest, Web Development, Database Management.
 
 **2. OrderNow – Restaurant Ordering System**
 - Developed a restaurant ordering system to manage customer orders, staff information, and restaurant operations.
@@ -95,6 +69,26 @@ Throughout my academic journey, internship, and personal learning, I have worked
 - Developed an AI-powered fitness chatbot that provides interactive fitness guidance.
 - Integrated AI chatbot functionality, voice input, fitness dashboards, and interactive features.
 - Technologies: Python, Flask, OpenAI API, JavaScript, Chart.js, HTML, CSS.
+
+**4. NomadNest AI – AI-Powered Neighborhood Lifestyle Simulator**
+- Developed an AI-powered platform that analyses neighbourhood facilities and generates 24-hour lifestyle simulations using geospatial data.
+- Integrated AI personas, location-based analysis and interactive mapping.
+- **Technologies:** Python, FastAPI, OpenAI API, SQLite, Leaflet, OpenStreetMap.
+
+**5. CompliancePilot AI – AI-Powered Compliance Intelligence Platform**
+- Designed an intelligent compliance platform to analyse documents, identify regulatory risks and generate audit reports based on Malaysian regulations.
+- Implemented a multi-agent AI architecture and Retrieval-Augmented Generation (RAG) approach.
+- **Technologies:** Python, FastAPI, Next.js, PostgreSQL, ChromaDB, Tesseract OCR.
+
+**6. SmartScholar AI – Scholarship Recommendation System**
+- Developed a scholarship recommendation platform that matches students with suitable opportunities based on academic performance, household income and interests.
+- Implemented scholarship matching scores and AI-generated recommendations.
+- **Technologies:** TypeScript, React, Supabase, Gemini AI, Tailwind CSS.
+
+**7. MathLetics – Gamified Mathematics Learning Application**
+- Developed an Android application featuring interactive mathematics quizzes, student progress tracking, leaderboards and administrator management.
+- Implemented authentication and database operations using SQLite.
+- **Technologies:** Java, Android Studio, SQLite.
 
 ### 💻 Internship & Practical Development Projects
 
@@ -113,13 +107,6 @@ Throughout my academic journey, internship, and personal learning, I have worked
 - Created websites using Google Sites to organise and present officer information.
 - Focused on improving information accessibility and centralising relevant resources.
 - Technologies: Google Sites, Google Workspace.
-
-### 🌱 Additional Development & Innovation
-
-**7. CompliancePilot AI**
-- Explored an AI-powered compliance solution designed to support compliance-related workflows and information management.
-- Developed as an innovation project concept for a technology hackathon.
-- Technologies: AI, Web Development.
 
 ---
 
