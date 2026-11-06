@@ -65,10 +65,12 @@ Throughout my academic journey, internship, and personal learning, I have worked
 - Implemented customer and administrator functionalities, order management, receipt generation, and expense tracking.
 - Technologies: Java, JSP, Servlets, MySQL, HTML, CSS.
 
-**3. FitBuddy AI – AI Fitness Coach**
-- Developed an AI-powered fitness chatbot that provides interactive fitness guidance.
-- Integrated AI chatbot functionality, voice input, fitness dashboards, and interactive features.
-- Technologies: Python, Flask, OpenAI API, JavaScript, Chart.js, HTML, CSS.
+**3. **DuitSmart – AI-Powered Financial Literacy Chatbot**
+- Developed an AI-powered financial literacy web application designed to help Malaysian teenagers improve money management skills 
+through interactive financial guidance and educational activities.
+- Implemented an AI chatbot, savings goal tracker, gamified financial learning activities, achievement rewards, and leaderboard to encourage 
+responsible saving and spending habits.
+- Technologies: Python, Flask, Flask-SQLAlchemy, SQLite, OpenAI GPT-4o-mini, HTML, CSS, JavaScript, Chart.js.
 
 **4. NomadNest AI – AI-Powered Neighborhood Lifestyle Simulator**
 - Developed an AI-powered platform that analyses neighbourhood facilities and generates 24-hour lifestyle simulations using geospatial data.
